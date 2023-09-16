@@ -1,0 +1,34 @@
+---
+id: 59805313
+name: Volcanic Rimfire
+type: Effect Monster
+frameType: effect
+desc: "If this card is sent to the GY: You can activate 1 of these effects;\r\n● Banish
+  this card from your GY, and if you do, send 1 \"Volcanic\" monster from your Deck
+  to the GY, except \"Volcanic Rimfire\".\r\n● Banish 1 \"Blaze Accelerator\" card
+  from your face-up field or GY, and if you do, place 1 \"Blaze Accelerator\" Continuous
+  Spell/Trap from your hand or Deck face-up on your field.\r\nYou can only use each
+  effect of \"Volcanic Rimfire\" once per turn."
+atk: 300
+def: 0
+level: 1
+race: Pyro
+attribute: FIRE
+archetype: Volcanic
+card_sets:
+- set_name: 'Legendary Duelists: Soulburning Volcano'
+  set_code: LD10-EN020
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+card_images:
+- id: 59805313
+  image_url: https://images.ygoprodeck.com/images/cards/59805313.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/59805313.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/59805313.jpg
+card_prices:
+- cardmarket_price: '0.16'
+  tcgplayer_price: '0.25'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.79'
